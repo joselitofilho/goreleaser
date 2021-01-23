@@ -1,4 +1,4 @@
-module github.com/goreleaser/goreleaser
+module github.com/joselitofilho/goreleaser
 
 go 1.15
 
